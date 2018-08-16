@@ -83,7 +83,8 @@ def main(prg):
     
         ps = [ (adnumber(freqs['a']), 'a'), (adnumber(freqs['b']), 'b') ] 
         
-        c = ( (1*(0.2-ps[0][0])**2) + (1*(0.6-ps[1][0])**2)) / 2    # example MSE-shaped cost function (0.2 = target probability of a, 0.6 = target probability of b)
+        c = ( (1*(0.2-ps[0][0])**2) + (1*(0.6-ps[1][0])**2)) / 2    # example MSE-shaped cost function (0.2 = target probability of a, 
+        # 0.6 = target probability of b)
         
         if atom_x == "":
             return c
