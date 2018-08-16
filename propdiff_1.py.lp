@@ -1,6 +1,4 @@
-% thprop_demo1.py.lp
-
-% Solving MSE cost functions with Clingo + Python using theory propagators
+% Solving MSE cost functions with Clingo + Python using propagators
 % Version 0.1
 
 % Copyright (c) 2018 Matthias Nickles
