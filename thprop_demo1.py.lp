@@ -1,5 +1,3 @@
-% thprop_demo1.py.lp
-
 % Solving cost functions with Clingo + Python using propagators
 % Version 0.1
 
