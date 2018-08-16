@@ -77,7 +77,7 @@ def main(prg):
     def __cost(freqs):
         return __cost_ad(freqs, "")
         
-    def __cost_ad(freqs, atom_x):  # using automatic differentiation
+    def __cost_ad(freqs, atom_x):  # using automatic differentiation (except if atom_x=="", then evaluate cost expression)
     
         ps = [ (adnumber(freqs['a']), 'a'), (adnumber(freqs['b']), 'b') ] 
         
