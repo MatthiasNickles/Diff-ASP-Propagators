@@ -1,5 +1,5 @@
 # DifferentiableSAT
-Code and examples for differentiable SAT solving and Answer Set Programming 
+Demo code for differentiable Answer Set Programming using propagators
 
 (more to be added)
 
