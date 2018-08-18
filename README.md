@@ -1,4 +1,4 @@
-# DifferentiableSAT
+# Diff-ASP-Propagators
 Demo code for differentiable Answer Set Programming using propagators
 
 (more to be added)
