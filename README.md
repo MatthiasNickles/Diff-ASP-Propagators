@@ -1,5 +1,5 @@
 # Diff-ASP-Propagators
-Demo code for Diff-ASP-Propagatores for differentiable ASP and SAT, using Python and Clingo's propagators.
+Demo code for Diff-ASP-Propagators for Differentiable Answer Set Programming and Differentiable SAT, using Python and Clingo's propagators.
 Proof-of-concept only; for a realistic approach to Differentiable Satisfiability, see https://github.com/MatthiasNickles/DelSAT
 
 For details on this approach, see http://ceur-ws.org/Vol-2219/paper7.pdf 
